@@ -1,6 +1,10 @@
 # VibeSinc
 Una app para Android que monitorea el nivel de ruido ambiental y ajusta automáticamente el volumen del dispositivo. 
 
+
+![image (1)-Photoroom](https://github.com/user-attachments/assets/9f7b7dc2-4683-4ee0-92a4-8f8ac445b639)
+
+
 ## Características
 - Monitoreo en tiempo real del nivel de ruido ambiental
 - Ajuste automático del volumen según el nivel de ruido detectado:
