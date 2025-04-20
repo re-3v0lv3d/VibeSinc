@@ -24,3 +24,4 @@ Una app para Android que monitorea el nivel de ruido ambiental y ajusta automát
 - Servicios en primer plano
 - NotificationManager
 - BroadcastReceiver
+  
