@@ -7,7 +7,7 @@ Una app para Android que monitorea el nivel de ruido ambiental y ajusta automát
 
 ## Características
 - Monitoreo en tiempo real del nivel de ruido ambiental
-- Ajuste automático del volumen según el nivel de ruido detectado:
+- Ajuste automático del volumen según el nivel de ruido detectado en spl:
   - Muy silencioso (< 60 dB): 60% del volumen
   - Silencioso (60-75 dB): 70% del volumen
   - Normal (75-80 dB): 80% del volumen
